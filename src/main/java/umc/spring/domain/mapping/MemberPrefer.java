@@ -7,6 +7,7 @@ import umc.spring.domain.Member;
 import umc.spring.domain.common.BaseEntity;
 import umc.spring.domain.enums.MissionStatus;
 
+@Setter
 @Entity
 @Getter
 @Builder
